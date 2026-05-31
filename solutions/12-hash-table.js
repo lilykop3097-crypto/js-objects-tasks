@@ -1,5 +1,5 @@
-import crc32 from 'crc-32';
-
+import * as CRC32 from "crc-32";
 // BEGIN
+
 
 // END
