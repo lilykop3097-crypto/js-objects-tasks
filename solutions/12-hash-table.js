@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // BEGIN
 import crc32 from 'crc-32';
 
@@ -30,5 +31,10 @@ export const get = (map, key, defaultValue = null) => {
 
   return defaultValue;
 };
+=======
+import * as CRC32 from "crc-32";
+// BEGIN
+>>>>>>> 7f06b0219ce3ba8878984c4b2bc8c461b38ec635
+
 
 // END
